@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="bruceCGALproject" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\usr\lib\CGAL\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/adam/Desktop/bruceCGAL/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/local">
+         <Option working_dir="/home/adam/Desktop/bruceCGAL/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 install/local" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/strip">
+         <Option working_dir="/home/adam/Desktop/bruceCGAL/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 install/strip" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/adam/Desktop/bruceCGAL/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install">
+         <Option working_dir="/home/adam/Desktop/bruceCGAL/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 install" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/adam/Desktop/bruceCGAL/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="list_install_components">
+         <Option working_dir="/home/adam/Desktop/bruceCGAL/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 list_install_components" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="bruceCGAL">
+         <Option output="/home/adam/Desktop/bruceCGAL/build/libbruceCGAL.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/adam/Desktop/bruceCGAL/build" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DCGAL_USE_MPFR" />
+            <Add option="-DCGAL_USE_GMP" />
+            <Add option="-DCGAL_EIGEN3_ENABLED" />
+            <Add directory="/home/adam/Desktop/bruceCGAL/build" />
+            <Add directory="/home/adam/Desktop/bruceLibrary/bruceCGAL" />
+            <Add directory="/home/adam/Desktop/bruceLibrary/bruceCGAL/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.9" />
+            <Add directory="/usr/include/c++/4.9/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/i386-linux-gnu" />
+            <Add directory="/usr/include/i386-linux-gnu/c++/4.9" />
+            <Add directory="/usr/lib/gcc/i686-linux-gnu/4.9/include" />
+            <Add directory="/usr/lib/gcc/i686-linux-gnu/4.9/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 bruceCGAL" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="bruceCGAL/fast">
+         <Option output="/home/adam/Desktop/bruceCGAL/build/libbruceCGAL.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/adam/Desktop/bruceCGAL/build" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DCGAL_USE_MPFR" />
+            <Add option="-DCGAL_USE_GMP" />
+            <Add option="-DCGAL_EIGEN3_ENABLED" />
+            <Add directory="/home/adam/Desktop/bruceCGAL/build" />
+            <Add directory="/home/adam/Desktop/bruceLibrary/bruceCGAL" />
+            <Add directory="/home/adam/Desktop/bruceLibrary/bruceCGAL/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.9" />
+            <Add directory="/usr/include/c++/4.9/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/i386-linux-gnu" />
+            <Add directory="/usr/include/i386-linux-gnu/c++/4.9" />
+            <Add directory="/usr/lib/gcc/i686-linux-gnu/4.9/include" />
+            <Add directory="/usr/lib/gcc/i686-linux-gnu/4.9/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 bruceCGAL/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/adam/Desktop/bruceCGAL/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/src/PoissonSurfaceReconstructrion.cpp">
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/src/SetPointProcessing.cpp">
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/CGALConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/UseCGAL.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/CGAL_Macros.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/CGAL_VersionUtils.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/CGAL_Common.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/CGAL_Macros.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/CGAL_SetupFlags.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/CGAL_GeneratorSpecificSettings.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/CGAL_TweakFindBoost.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/FindEigen3.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+      <Unit filename="/home/adam/Desktop/bruceLibrary/bruceCGAL/../../../../../usr/lib/CGAL/UseEigen3.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\CGAL\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
